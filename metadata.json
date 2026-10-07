@@ -1,0 +1,6 @@
+{
+  "name": "JECRC Academic Timetable & Faculty Portal",
+  "description": "Comprehensive institutional timetable, teacher scheduling, substitute assignment, room clash alerts, and HOD management system for JECRC Foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
